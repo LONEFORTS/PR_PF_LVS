@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://loneforts.github.io/PFS_LFSV/sitemap.xml
